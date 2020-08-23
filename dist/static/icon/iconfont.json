@@ -1,0 +1,93 @@
+{
+  "id": "2022832",
+  "name": "animal_flow",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16660297",
+      "name": "cow",
+      "font_class": "cow",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "16660298",
+      "name": "chicken",
+      "font_class": "chicken",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "16660299",
+      "name": "horse",
+      "font_class": "horse",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "16660300",
+      "name": "dog",
+      "font_class": "dog",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "16660301",
+      "name": "dragon",
+      "font_class": "dragon",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "16660302",
+      "name": "pig",
+      "font_class": "pig",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "16660303",
+      "name": "rat",
+      "font_class": "rat",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "16660304",
+      "name": "monkey",
+      "font_class": "monkey",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "16660305",
+      "name": "rabbit",
+      "font_class": "rabbit",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "16660306",
+      "name": "snake",
+      "font_class": "snake",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "16660307",
+      "name": "sheep",
+      "font_class": "sheep",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "16660308",
+      "name": "tiger",
+      "font_class": "tiger",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}

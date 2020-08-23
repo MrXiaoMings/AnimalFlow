@@ -1,0 +1,73 @@
+export default [{
+  id: '0',
+  text: '鼠',
+  type: 1,
+  img: `rat.png`,
+  icon: '&#xe612;'
+}, {
+  id: '1',
+  text: '牛',
+  type: 2,
+  img: `cow.png`,
+  icon: '&#xe60c;'
+}, {
+  id: '2',
+  text: '虎',
+  type: 3,
+  img: `tiger.png`,
+  icon: '&#xe617;'
+}, {
+  id: '3',
+  text: '兔',
+  type: 4,
+  img: `rabbit.png`,
+  icon: '&#xe614;'
+}, {
+  id: '4',
+  text: '龙',
+  type: 5,
+  img: `dragon.png`,
+  icon: '&#xe610;'
+}, {
+  id: '5',
+  text: '蛇',
+  type: 6,
+  img: `snake.png`,
+  icon: '&#xe615;'
+}, {
+  id: '6',
+  text: '马',
+  type: 7,
+  img: `horse.png`,
+  icon: '&#xe60e;'
+}, {
+  id: '7',
+  text: '羊',
+  type: 8,
+  img: `sheep.png`,
+  icon: '&#xe616;'
+}, {
+  id: '8',
+  text: '猴',
+  type: 9,
+  img: `monkey.png`,
+  icon: '&#xe613;'
+}, {
+  id: '9',
+  text: '鸡',
+  type: 10,
+  img: `chicken.png`,
+  icon: '&#xe60d;'
+}, {
+  id: '10',
+  text: '狗',
+  type: 11,
+  img: `dog.png`,
+  icon: '&#xe60f;'
+}, {
+  id: '11',
+  text: '猪',
+  type: 12,
+  img: `pig.png`,
+  icon: '&#xe611;'
+}]

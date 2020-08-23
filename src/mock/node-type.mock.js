@@ -1,0 +1,11 @@
+export default {
+  START: 1,
+  RULE_GROUP: 2,
+  CUSTOMER_SORT: 3,
+  SCORE_CARD: 4,
+  BLACK_NAME: 5,
+  WHITE_NAME: 6,
+  SAND_BOX: 7,
+  DECISION_OPTION: 9,
+  COMPLEX_MODEL: 14
+}
