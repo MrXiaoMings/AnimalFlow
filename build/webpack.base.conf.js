@@ -17,7 +17,12 @@ const createLintingRule = () => ({
     formatter: require('eslint-friendly-formatter'),
     emitWarning: !config.dev.showEslintErrorsInOverlay
   }
-})
+},
+  {
+    test: /\.js$/,
+    use: 'babel-loader',
+    exclude: /node_modules/
+  })
 
 module.exports = {
   context: path.resolve(__dirname, '../'),
