@@ -23,5 +23,6 @@ npm run e2e
 # run all tests
 npm test
 ```
+<a href="https://mrxiaomings.github.io/AnimalFlow/dist/index.html">进入</a>观看效果
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
