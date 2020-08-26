@@ -42,7 +42,7 @@
         </ul>
         <img src='../../lib/img/cha.png' style="display:none; z-index:10001; position:absolute;" id="lineDel"/>
         <textarea id="jtopo_textfield" style="width: 60px; position: absolute; display: none;"
-                  onkeydown="if(event.keyCode==13)this.blur();" @mousemove.native.stop=""></textarea>
+                  onkeydown="if(event.keyCode==13)this.blur();" @mousemove.stop=""></textarea>
         <canvas id="canvas"></canvas>
       </div>
     </div>
